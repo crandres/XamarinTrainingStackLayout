@@ -4,6 +4,6 @@
         <Label Text="Welcome to Xamarin" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="30" TextColor="White"/>
         <Label Text="Cross-platform apps made easy" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="18" TextColor="White"/>
         <Button Text="Login" TextColor="White" BackgroundColor="#1dabf0" />
-        <Button Text="Register" TextColor="White" BackgroundColor="#1dabf0" />
+        <Button Text="Register1" TextColor="White" BackgroundColor="#1dabf0" />
     </StackLayout>
 </ContentPage>
